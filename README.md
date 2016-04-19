@@ -214,3 +214,10 @@ public class GetManufacturerInfoServlet extends HttpServlet {
 	}
 
 }
+
+
+
+Roles:
+Supraja unnam=created the servlet code
+Venkata ramana bukka=designed the entities and relationships.
+Manasa aare= collected the material for the Manufacturer servlet,user servlet and product servlet.
